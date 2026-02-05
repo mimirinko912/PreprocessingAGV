@@ -1,0 +1,6 @@
+{
+    "input_dir": "./Agriculture-Vision-2021",
+    "output_dir": "./Processed_Data",
+    "subset": "train",
+    "description": "預設設定檔"
+}
